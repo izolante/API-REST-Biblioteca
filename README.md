@@ -1,12 +1,14 @@
 # API REST - Biblioteca
 API Rest para uma biblioteca, projeto para aula de Serviços WEB.
+
 # Estrutura da DB
-A estruturação foi feita utilizando uma tabela com os seguintes campos
-ID
-Título
-Descrição
-Autor
-Emprestado
+
+A estruturação foi feita utilizando uma tabela com os seguintes campos  
+ID  
+Título  
+Descrição  
+Autor  
+Emprestado  
 ------------
 ID sofre incremento automático para cada inserção,
 Descrição é formada por um varchar(255),
