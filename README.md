@@ -1,5 +1,5 @@
 # API REST - Biblioteca
-API Rest para uma biblioteca, projeto para aula de Serviços WEB.
+API Rest para uma biblioteca, projeto para aula de Serviços WEB.  
 Desenvolvido utilizando Express.JS, Cors (Middleware) e MySQL.
 
 # Estrutura da DB
