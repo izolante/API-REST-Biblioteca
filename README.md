@@ -3,7 +3,7 @@ API Rest para uma biblioteca, projeto para aula de Serviços WEB.
 
 # Estrutura da DB
 
-A estruturação foi feita utilizando uma tabela com os seguintes campos  
+Tabela LIVROS
 ID  
 Título  
 Descrição  
