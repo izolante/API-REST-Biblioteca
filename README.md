@@ -1,5 +1,6 @@
 # API REST - Biblioteca
 API Rest para uma biblioteca, projeto para aula de Serviços WEB.
+Desenvolvido utilizando Express.JS, Cors (Middleware) e MySQL.
 
 # Estrutura da DB
 
@@ -17,7 +18,7 @@ API Rest para uma biblioteca, projeto para aula de Serviços WEB.
 
 # Métodos, URLs e Ações
 ![image](https://user-images.githubusercontent.com/91175401/235875530-2ab8ec4e-fff0-4b4f-b312-9c0ee91ca0dd.png)
-
+#
 - ```GET``` /livros  
 Recupera todos os livros do banco  
 
@@ -42,4 +43,5 @@ Recupera todos os livros que possuam ```emprestado``` = ```TRUE```
 - ```GET``` /livros?titulo=[palavra]  
 Recupera todos os livros que possuam ```[palavra]``` no título  
 
- - [Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+#
+[Lista dos Status Codes utilizados](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
