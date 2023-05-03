@@ -10,10 +10,10 @@ Descrição
 Autor  
 Emprestado  
 ------------
-ID sofre incremento automático para cada inserção,
-Descrição é formada por um varchar(255),
-Autor varchar,
-Emprestado é um boolean, que inicia como false quando não definido no momento da inserção.
+ID sofre incremento automático para cada inserção,  
+Descrição é formada por um varchar(255),  
+Autor varchar,  
+Emprestado é um boolean, que inicia como false quando não definido no momento da inserção.  
 
 # Métodos, URLs e Ações
 ![image](https://user-images.githubusercontent.com/91175401/235875530-2ab8ec4e-fff0-4b4f-b312-9c0ee91ca0dd.png)
