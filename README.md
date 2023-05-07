@@ -13,8 +13,9 @@ Testes realizados com Postman.
 ```Emprestado```  
 ------------
 ```ID``` sofre incremento automático para cada inserção,  
-```Descrição``` é formada por um varchar(255),  
-```Autor``` varchar,  
+```Título``` é formada por um varchar(255),  
+```Descrição``` varchar(255),  
+```Autor``` varchar(255),  
 ```Emprestado``` é um boolean, que inicia como false quando não definido no momento da inserção.  
 
 # Métodos, URLs e Ações
