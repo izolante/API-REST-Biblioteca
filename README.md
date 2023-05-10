@@ -47,3 +47,7 @@ Recupera todos os livros que possuam ```[palavra]``` no título
 
 #
 [Lista dos Status Codes utilizados](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+[Apresentação do código + execução]
+(https://youtu.be/c2tQq5LJWLc)
+
